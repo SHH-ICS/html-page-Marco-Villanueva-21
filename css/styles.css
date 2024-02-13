@@ -1,24 +1,24 @@
-title {
+.title {
   background-color: blanchedalmond;
   color:blueviolet;
   font-size: x-large;
   text-align: center;
 }
 
-h1 {
+.h1 {
   color:aqua;
   font-size: large;
   text-align: middle;
 }
 
-p {
+.p {
   color:brown;
   text-align: right;
 }
 
-#idk {
-  background-color: black;
-  color: green;
-  font-size: medium;
-  text-align :center;
+#my-header {
+  background-color: rgb(255, 165, 0);
+  color: hsl(147,50%, 47%);
+  padding: 40px;
+  text-align: center;
 }
