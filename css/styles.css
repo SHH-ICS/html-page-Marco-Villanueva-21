@@ -1,0 +1,19 @@
+title {
+  background-color: blanchedalmond;
+  color:blueviolet;
+  font-size: x-large;
+  text-align: center;
+}
+
+h1 {
+  color:aqua;
+  font-size: 30px;
+  text-align: middle;
+}
+
+#my-header {
+  background-color: black;
+  color: green;
+  padding: 40px;
+  text-align :center;
+}
