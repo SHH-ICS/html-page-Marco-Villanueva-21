@@ -1,0 +1,21 @@
+h1 {
+  font-weight: bold;
+  color: lightblue;
+  background-color: black;
+  text-align: center;
+}
+
+ol {
+  background-color: beige;
+  color: red;
+  text-align: center;
+}
+
+table, th, td {
+  border:1px solid black;
+}
+
+table {
+  color: orange;
+  text-align: center;
+}
