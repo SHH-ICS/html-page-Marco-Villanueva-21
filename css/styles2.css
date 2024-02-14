@@ -1,6 +1,7 @@
 h1 {
   font-weight: bold;
   color: blue;
+  background-color: black;
   text-align: center;
 }
 
@@ -15,6 +16,6 @@ table, th, td {
 }
 
 table {
-  color: green;
+  color: orange;
   text-align: center;
 }
