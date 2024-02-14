@@ -1,7 +1,8 @@
 .h1 {
+  background-color: black;
   color:aqua;
-  font-size: large;
-  text-align: middle;
+  font-size: x-large;
+  text-align: center;
 }
 
 .p {
